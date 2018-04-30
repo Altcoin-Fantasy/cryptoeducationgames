@@ -12,7 +12,7 @@ This is a one stop shop for all educational games on the cryptocurrency space! L
 ## Decentralized App (Dapps)
 
 ### CryptoKitties
-[https://cryptokitties.co](A collectable/breeding cat game on the blockchain)
+[https://cryptokitties.co](A collectable and breeding cat game on the blockchain)
 
 ### Etherbots
 [https://etherbots.io](A collective robots game where you can battle other robots and gain experience)
